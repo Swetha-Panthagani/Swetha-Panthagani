@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swetha-Panthagani
 - 👀 I’m interested in Learning Programming and Developing applications.
-- 🌱 I’m currently learning Full Stack Web Devlopment.
-- 💞️ I’m looking to collaborate on Developing Full Stack Web Applications.
+- 🌱 I’m currently working on Gen AI and AI.
+- 💞️ I’m looking to collaborate on Deep Learning Projects.
 - 📫 How to reach me swethapathagani2338@gmail.com
 
 <!---
