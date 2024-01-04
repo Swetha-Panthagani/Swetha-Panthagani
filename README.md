@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swetha-Panthagani
 - 👀 I’m interested in Learning Programming and Developing applications.
-- 🌱 I’m currently learning Full Stack Web Devlopment with Manual and Automation Testing.
+- 🌱 I’m currently learning Full Stack Web Devlopment.
 - 💞️ I’m looking to collaborate on Developing Full Stack Web Applications.
 - 📫 How to reach me swethapathagani2338@gmail.com
 
