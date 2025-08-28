@@ -38,7 +38,7 @@ I focus on building intelligent, domain-specific applications that enhance relia
 ---
 
 ## 🌐 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/swetha-panthagani/) *(Add your LinkedIn profile link here)*  
+💼 [LinkedIn Swetha-Panthagani](https://www.linkedin.com/in/swetha-panthagani/)
 📧 [Email](mailto:swetha.panthagani7@gmail.com)  
 
 ---
